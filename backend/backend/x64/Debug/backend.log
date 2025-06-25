@@ -1,4 +1,0 @@
-﻿  backend.cpp
-C:\Users\5411008\my-fullstack-app\backend\backend.cpp(150,81): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\5411008\my-fullstack-app\backend\backend.cpp(192,63): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-  backend.vcxproj -> C:\Users\5411008\my-fullstack-app\backend\x64\Debug\backend.exe
